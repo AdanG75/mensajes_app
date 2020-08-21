@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c28578ce-8a8c-4f92-a595-9695295a2a9b" name="Default Changelist" comment="" />
+    <list default="true" id="c28578ce-8a8c-4f92-a595-9695295a2a9b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -28,6 +34,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1fIQoSdt3lvkIXYn5wmxLroZpcQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,9 +42,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="C:/Program Files/MySQL/mysql-connector-java-8.0.21/mysql-connector-java-8.0.21.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -70,7 +78,7 @@
       <workItem from="1595903319624" duration="4205000" />
       <workItem from="1595909408458" duration="1306000" />
       <workItem from="1595912253099" duration="1426000" />
-      <workItem from="1597982096472" duration="580000" />
+      <workItem from="1597982096472" duration="1973000" />
     </task>
     <servers />
   </component>
@@ -82,14 +90,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1032" y="178" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1595906813699" />
-    <state x="1079" y="207" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1595906309065">
+    <state x="1079" y="207" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1597986008233">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1079" y="207" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1595906309065" />
-    <state x="1123" y="222" key="FileChooserDialogImpl" timestamp="1595912397152">
+    <state x="1079" y="207" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597986008233" />
+    <state x="1123" y="222" key="FileChooserDialogImpl" timestamp="1597985066879">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1123" y="222" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1595912397152" />
+    <state x="1123" y="222" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1597985066879" />
     <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1595913769691">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -114,5 +122,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1136" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597983793602" />
+    <state x="1053" y="100" width="774" height="840" key="git4idea.log.GitShowExternalLogAction" timestamp="1597985110656">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1053" y="100" width="774" height="840" key="git4idea.log.GitShowExternalLogAction/0.0.1920.1080@0.0.1920.1080" timestamp="1597985110656" />
   </component>
 </project>
